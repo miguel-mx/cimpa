@@ -46,13 +46,11 @@ body {
     color: #615e62;
 }
 .hero-image {
-    /*background: url(../img/background-header.png) no-repeat center;*/
-    /*background-size: cover;*/
-    /*background-position: center;*/
-
+    background: url(../img/cimpabanner2.jpg) no-repeat center;
+    background-size: cover;
     /*background-image: linear-gradient(to bottom, #000c2e, #8f0068);*/
     position: relative;
-    background: #007b82;
+    /*background: #007b82;*/
     min-height: 280px;
     padding-top: 40px;
     padding-bottom: 40px;
